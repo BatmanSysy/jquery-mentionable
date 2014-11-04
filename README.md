@@ -1,3 +1,5 @@
+__forked by Batman__
+
 # jQuery Mentionable
 **Enable the user to mention other people by typing @**
 
